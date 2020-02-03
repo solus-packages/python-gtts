@@ -2,8 +2,8 @@
     <Source>
         <Name>python-gtts</Name>
         <Packager>
-            <Name>Fabio Forni</Name>
-            <Email>livingsilver94.solus@redaril.me</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.python</PartOf>
@@ -20,53 +20,53 @@
         <PartOf>programming.python</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/gtts-cli</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gTTS-2.0.3-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gTTS-2.0.3-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gTTS-2.0.3-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gTTS-2.0.3-py3.6.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gTTS-2.0.3-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gTTS-2.0.3-py3.6.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/__pycache__/cli.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/__pycache__/lang.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/__pycache__/tts.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/__pycache__/utils.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/__pycache__/version.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/cli.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/lang.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/__pycache__/test_cli.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/__pycache__/test_lang.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/__pycache__/test_tts.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/__pycache__/test_utils.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/test_cli.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/test_lang.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/test_tts.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tests/test_utils.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/__pycache__/core.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/__pycache__/pre_processors.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/__pycache__/symbols.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/__pycache__/tokenizer_cases.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/core.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/pre_processors.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/symbols.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tokenizer/tokenizer_cases.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/tts.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/utils.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gtts/version.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gTTS-2.0.3-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gTTS-2.0.3-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gTTS-2.0.3-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gTTS-2.0.3-py3.7.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gTTS-2.0.3-py3.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gTTS-2.0.3-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/__pycache__/cli.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/__pycache__/lang.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/__pycache__/tts.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/__pycache__/utils.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/__pycache__/version.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/cli.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/lang.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/__pycache__/test_cli.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/__pycache__/test_lang.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/__pycache__/test_tts.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/__pycache__/test_utils.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/test_cli.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/test_lang.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/test_tts.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tests/test_utils.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/__pycache__/core.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/__pycache__/pre_processors.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/__pycache__/symbols.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/__pycache__/tokenizer_cases.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/core.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/pre_processors.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/symbols.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tokenizer/tokenizer_cases.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/tts.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/utils.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gtts/version.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2019-08-15</Date>
+        <Update release="3">
+            <Date>2020-01-25</Date>
             <Version>2.0.3</Version>
             <Comment>Packaging update</Comment>
-            <Name>Fabio Forni</Name>
-            <Email>livingsilver94.solus@redaril.me</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>

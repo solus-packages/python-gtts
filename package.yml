@@ -1,11 +1,12 @@
 name       : python-gtts
 version    : 2.0.3
-release    : 2
+release    : 3
 source     :
     - https://files.pythonhosted.org/packages/e6/37/f55346a736278f0eb0ae9f7edee1a61028735ef0010db68a2e6fcd0ece56/gTTS-2.0.3.tar.gz : a6d4cf039da2797de8af2da7c1f0ce700ac0b48601ce6c11a02b337fd6bdcf57
 license    : MIT
 component  : programming.python
-summary    : Python module to create MP3 files from spoken text via the Google TTS API
+summary    : Python module to create MP3 files from spoken text via the Google TTS
+    API
 description: |
     gTTS is a Python interface for Google's Text to Speech API. An MP3 file may be created with the gTTS module or the gtts-cli command line utility. It allows unlimited lengths to be spoken by tokenizing long sentences where the speech would naturally pause.
 rundeps    :
