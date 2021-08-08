@@ -1,6 +1,6 @@
 name       : python-gtts
 version    : 2.0.3
-release    : 3
+release    : 4
 source     :
     - https://files.pythonhosted.org/packages/e6/37/f55346a736278f0eb0ae9f7edee1a61028735ef0010db68a2e6fcd0ece56/gTTS-2.0.3.tar.gz : a6d4cf039da2797de8af2da7c1f0ce700ac0b48601ce6c11a02b337fd6bdcf57
 license    : MIT
